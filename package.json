@@ -1,0 +1,19 @@
+{
+  "name": "html-close-tagz",
+  "version": "1.0.0",
+  "description": "to convert html to jsx compatible html close all the optional tags like hr or input",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deepakanandrao/npm-package-test.git"
+  },
+  "author": "Deepak Anandrao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deepakanandrao/npm-package-test/issues"
+  },
+  "homepage": "https://github.com/Deepakanandrao/npm-package-test#readme"
+}
